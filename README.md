@@ -96,10 +96,12 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/ca864858-90bf-4b1d-935e-f645b0885850">
 </p>
+
 #### Class Diagram
 <p align="center">
 <img src="https://github.com/user-attachments/assets/d119695a-d3b2-4a45-86bb-54ac3b0fb52e">
 </p>
+
 #### Sequence Diagram
 <p align="center">
 <img src="https://github.com/user-attachments/assets/82396edb-deaf-47e9-9488-8fa454aaa307">
