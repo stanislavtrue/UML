@@ -13,6 +13,8 @@
 **Очікуваний результат:** 
 діаграма з чітко підписаними акторами і варіантами використання.
 ### Діаграма:
+<img src="https://github.com/user-attachments/assets/2962816d-0b83-48fc-9a33-df4c636baf23">
+</p>
 ![](https://github.com/user-attachments/assets/2962816d-0b83-48fc-9a33-df4c636baf23)
 <h2 align="center">Завдання №2</h2>
 
