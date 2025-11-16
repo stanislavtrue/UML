@@ -33,7 +33,9 @@
 
 **Очікуваний результат:** діаграма з атрибутами, методами й типами зв’язків.
 ### Діаграма
-![](https://github.com/user-attachments/assets/901c7a5e-b8e6-4761-8817-a4ce6301a4fb)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/901c7a5e-b8e6-4761-8817-a4ce6301a4fb">
+</p>
 <h2 align="center">Завдання №3</h2>
 
 ### Умова
@@ -47,7 +49,9 @@
 
 **Очікуваний результат:** стрілки викликів між об’єктами, пунктирні зворотні відповіді.
 ### Діаграма
-![](https://github.com/user-attachments/assets/35f114f6-d943-4323-a820-54cc0b2519b4)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/35f114f6-d943-4323-a820-54cc0b2519b4">
+</p>
 <h2 align="center">Завдання №4</h2>
 
 ### Умова
@@ -58,7 +62,9 @@
 
 **Очікуваний результат:** чіткий потік дій із розгалуженням *(decision diamond)*.
 ### Діаграма
-![](https://github.com/user-attachments/assets/1f097090-c6fe-4358-bf21-394c6cd6966d)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/1f097090-c6fe-4358-bf21-394c6cd6966d">
+</p>
 <h2 align="center">Завдання №5</h2>
 
 ### Умова
@@ -69,7 +75,9 @@
 
 **Очікуваний результат:** 5–6 компонентів, підписані стрілки взаємодії.
 ### Діаграма
-![](https://github.com/user-attachments/assets/53841b80-251a-4284-93a9-2b89a1c81f4a)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/53841b80-251a-4284-93a9-2b89a1c81f4a">
+</p>
 <h2 align="center">Завдання №6</h2>
 
 ### Умова
@@ -85,8 +93,14 @@
 ### Виконання
 **Система:** Бронювання заняття в спортзалі
 #### Use Case Diagram
-![](https://github.com/user-attachments/assets/ca864858-90bf-4b1d-935e-f645b0885850)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/ca864858-90bf-4b1d-935e-f645b0885850">
+</p>
 #### Class Diagram
-![](https://github.com/user-attachments/assets/d119695a-d3b2-4a45-86bb-54ac3b0fb52e)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/d119695a-d3b2-4a45-86bb-54ac3b0fb52e">
+</p>
 #### Sequence Diagram
-![](https://github.com/user-attachments/assets/82396edb-deaf-47e9-9488-8fa454aaa307)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/82396edb-deaf-47e9-9488-8fa454aaa307">
+</p>
